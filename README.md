@@ -15,6 +15,11 @@ Currently, I'm exploring the worlds of **Python**, **NodeJS**, **C**, and **C++*
 
 ---
 
-> "Keep building. Keep breaking. Keep learning."
+<div align="center">
 
-Thanks for stopping by!
+<img src="https://img.shields.io/badge/IID_2025-GOLD_MEDAL-D4AF37?style=for-the-badge&labelColor=0B0F19" alt="IID 2025 Gold Medal">
+<img src="https://img.shields.io/badge/BYIRE_2026-GOLD_MEDAL-D4AF37?style=for-the-badge&labelColor=0B0F19" alt="BYIRE 2026 Gold Medal">
+<img src="https://img.shields.io/badge/TISIIF_2026-GOLD_MEDAL-D4AF37?style=for-the-badge&labelColor=0B0F19" alt="TISIIF 2026 Gold Medal">
+<img src="https://img.shields.io/badge/ISIF_2026-GOLD_MEDAL-D4AF37?style=for-the-badge&labelColor=0B0F19" alt="ISIF 2026 Gold Medal">
+
+</div>
