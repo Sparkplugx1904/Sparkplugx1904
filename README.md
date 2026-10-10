@@ -23,3 +23,15 @@ Currently, I'm exploring the worlds of **Python**, **NodeJS**, **C**, and **C++*
 <img src="https://img.shields.io/badge/ISIF_2026-GOLD_MEDAL-D4AF37?style=for-the-badge&labelColor=0B0F19" alt="ISIF 2026 Gold Medal">
 
 </div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sparkplugx1904/Sparkplugx1904/output/github-snake-gold.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sparkplugx1904/Sparkplugx1904/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Sparkplugx1904/Sparkplugx1904/output/github-snake.svg" />
+</picture>
+
+</div>
